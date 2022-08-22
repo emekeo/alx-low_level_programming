@@ -22,3 +22,7 @@ File Descriptions
 2-append_text_to_file.c - function that appends text at the end of a file.
 
 3-cp.c - function that copies the content of one file to another file.
+
+4-100-elf_header.c - A program that displays the information contained in the ELF header at the start of an ELF file.
+
+
